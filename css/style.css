@@ -1,31 +1,24 @@
 body {
-  max-width: 1024px;
-  margin: auto;
+  /*font-family: 'Shadows Into Light Two', cursive;*/
+  /*font-family: 'Raleway', sans-serif;*/
+  /*font-family: 'Lora', serif;*/
+  font-family: 'Montserrat', sans-serif;
+  /*font-family: 'Montez', cursive;*/
+}
+
+header h1 {
+  font-family: 'Montez', cursive;
+}
+
+header h4 {
+  color: blue;
 }
 
 img {
   width: 100%;
 }
 
-.text-wrapper h2{
-  color: white;
-}
-
 .logo-img {
   width: 100px;
   padding: 20px;
-}
-
-.article-img {
-  padding: 0;
-}
-
-.text-container {
-  margin-top: 20px;
-  border-top: 2px solid limegreen;
-}
-
-.btn-link{
-  border: 2px solid limegreen;
-  justify-content: center;
 }
