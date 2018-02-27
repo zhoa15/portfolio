@@ -15,8 +15,8 @@ header h1 {
   font-family: 'Montez', cursive;
 }
 
-header h4 {
-  color: blue;
+header a {
+  text-decoration: none;
 }
 
 img {
@@ -28,6 +28,9 @@ img {
   padding: 20px;
 }
 
+.banner-img {
+  max-height: 575px;
+}
 
 #featured-projects{
   text-align: center;
@@ -46,3 +49,7 @@ img {
 .card-title{
   text-transform: capitalize;
 }
+
+/*.card-img-top{
+  height: 50%;
+}*/
